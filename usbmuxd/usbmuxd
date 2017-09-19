@@ -1,0 +1,2 @@
+#!/bin/bash
+python /opt/usbmuxd/python-client/tcprelay.py 22:2222
